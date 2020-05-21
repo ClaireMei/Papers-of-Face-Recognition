@@ -9,8 +9,8 @@
 * ...
 
 ### High citation papers from 2016 to 2020
-|Year| Authors|Institute|Title|Citation|Link|
-|---|---|---|---|---|---|
+|Year| Authors|Institute|Title|Citation|Link|Contribution(idea)|
+|---|---|---|---|---|---|---|
 |2016|
 
 
