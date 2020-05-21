@@ -9,16 +9,21 @@
 * ...
 
 ### Conference and Journals
-|brrev|Full name|level|
-|---|---|---|
-|CVPR|International Conference on Computer Vision and Pattern Recognition| A|
-|ICCV|International Conference on Computer Vision| A|
-|ICML|International Conference on Machine Learning|A|
-|NIPS|Annual Conference on Neural Information Processing Systems|
-|AAAI|AAAI Conference on Artificial Intelligence|
-|ACM |ACM International Conference on Multimedia|
-|IJCAI|International Joint Conference on Artificial Intelligence|
-|ECCV|European Conference on Computer Vision|B|
+|brrev|Full name|type|level|
+|---|---|---|---|
+|CVPR|International Conference on Computer Vision and Pattern Recognition|C| A|
+|ICCV|International Conference on Computer Vision|C| A|
+|ICML|International Conference on Machine Learning|C|A|
+|NIPS|Annual Conference on Neural Information Processing Systems|C|
+|AAAI|AAAI Conference on Artificial Intelligence|C|
+|ACM |ACM International Conference on Multimedia|C|
+|IJCAI|International Joint Conference on Artificial Intelligence|C|
+|ECCV|European Conference on Computer Vision|C|B|
+|TPAMI|IEEE Trans on Pattern Analysis and Machine Intelligence|J|
+|IJCV| International Journal of Computer Vision|J|
+|TIP|IEEE Transactions on Image |J|
+
+note:C: conference  J:Journal
 
 ### High citation papers from 2016 to 2020
 |Year| Authors|Institute|Title|Citation|Link|Contribution(idea)|
