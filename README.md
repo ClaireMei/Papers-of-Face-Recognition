@@ -5,6 +5,7 @@
 * MicroSoft
 * Ziqing Li
 * Shiguang Shan
+
   http://vipl.ict.ac.cn/homepage/sgshan
 * Xiaoou Tang
 * ...
@@ -25,7 +26,9 @@
 |TIP|IEEE Transactions on Image |J|Q1|9|
 
 note:C: conference  J:Journal
+
 For more detailed information you could reference https://www.ccf.org.cn/Academic_Evaluation/By_category/
+
 ### High citation papers from 2016 to 2020
 |Year| Authors|Institute|Title|Citation|Link|Contribution(idea)|
 |---|---|---|---|---|---|---|
