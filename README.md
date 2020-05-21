@@ -5,7 +5,7 @@
 * MicroSoft
 * Ziqing Li
 * Shiguang Shan
-homepage:http://vipl.ict.ac.cn/homepage/sgshan
+  http://vipl.ict.ac.cn/homepage/sgshan
 * Xiaoou Tang
 * ...
 
