@@ -19,8 +19,8 @@
 |ACM |ACM International Conference on Multimedia|C|
 |IJCAI|International Joint Conference on Artificial Intelligence|C|
 |ECCV|European Conference on Computer Vision|C|B|
-|TPAMI|IEEE Trans on Pattern Analysis and Machine Intelligence|J|
-|IJCV| International Journal of Computer Vision|J|
+|TPAMI|IEEE Trans on Pattern Analysis and Machine Intelligence|J|Q1|
+|IJCV| International Journal of Computer Vision|J|Q1|
 |TIP|IEEE Transactions on Image |J|
 
 note:C: conference  J:Journal
